@@ -212,4 +212,4 @@ def who_won_nested(game_board: list):
 
 ## 🎓 Course
 
-This project was completed as part of the **MOOC.fi Python Programming course** with a perfect score of **1/1 points**.
+This project was completed as part of the **MOOC.fi Python Programming course**.
