@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Course](https://img.shields.io/badge/MOOC.fi-Python%20Programming-lightgrey)
-![Points](https://img.shields.io/badge/Points-1%2F1-success)
 
 A clean and efficient Python function that determines the winner of a Go game by counting player pieces on the board. This solution prioritizes code maintainability and readability while solving a classic board game analysis problem.
 
